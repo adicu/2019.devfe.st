@@ -9,11 +9,9 @@ body {
 
 .title-img {
     width: 75%;
-    -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
-    -moz-animation: fadein 2s; /* Firefox < 16 */
-    -ms-animation: fadein 2s; /* Internet Explorer */
-    -o-animation: fadein 2s; /* Opera < 12.1 */
-    animation: fadein 2s;
+}
+.schedule-title {
+    margin-bottom: 50px;
 }
 .hline {
     margin-top: 50px;
@@ -35,10 +33,39 @@ body {
     margin-right:-50px;
 }
 
-.schedule {
-    background-color: #29ABE2;
+#homepage {
+    height:100vh;
 }
+
+.section {
+    height:100vh;
+}
+
+.schedule {
+    background-color: #00A79C;
+}
+#judges {
+    background-color:#F7931E;
+}
+
+#faq {
+    background-color: #8CC63F;
+}
+#contact {
+    background-color: #93278F;
+}
+
 .container-fluid {
     padding: 0px;
+}
+
+.navbar-brand {
+    position: relative;
+  color: #000;
+  text-decoration: none;
+}
+.navbar-brand:hover {
+    color: #fff;
+
 }
 
