@@ -1,7 +1,13 @@
 body {
     background-color: #231F20;
     color: white;
-    font-family: "Helvetica", sans-serif;
+    font-family: "Krub", sans-serif;
+}
+section {
+      background: #231F20;
+      background: -webkit-linear-gradient(#231F20, #1d1c1c);
+      background:    -moz-linear-gradient(#231F20, #1d1c1c);
+      background:         linear-gradient(#231F20, #1d1c1c);
 }
 .strong-text {
     font-weight: 700;
@@ -11,7 +17,11 @@ body {
     width: 75%;
 }
 .schedule-title {
+    height:700px;
     margin-bottom: 50px;
+}
+.schedule-msg {
+    margin-top:-275px;
 }
 .hline {
     margin-top: 50px;
@@ -37,20 +47,30 @@ body {
     height:100vh;
 }
 
-.section {
-    height:100vh;
+.faq-container {
+    margin-left: 150px;
 }
 
-.schedule {
-    background-color: #00A79C;
+.learn {
+    height:700px;
+}
+
+a {
+    color: #009245;
+}
+
+.learn-img {
+    margin-top: -80px;
+    margin-bottom:50px;
+}
+.tracks{
+    margin-left:-300px;
+    margin-top: -30px;
 }
 #judges {
     background-color:#F7931E;
 }
 
-#faq {
-    background-color: #8CC63F;
-}
 #contact {
     background-color: #93278F;
 }
@@ -68,4 +88,66 @@ body {
     color: #fff;
 
 }
+footer {
+    background-color: #231F20 !important;
+    font-weight:70;
+}
+.mta-brand {
+    font-family: "Helvetica", sans-serif !important;
+    line-height:1.6;
+}
+.big {
+    font-size: 35pt;
+    margin-bottom:50px;
+}
+.lead-in {
+    margin-top:100px;
+}
+.section-title {
+    font-size:50pt;
+}
+.content-begin {
+    margin-top: 50px;
+}
+.first {
+    margin-top:90px;
+}
+.underline {
+    margin-top: -20px;
+    margin-left:-3px;
+}
 
+.traintracks {
+    margin-left: -40px;
+    margin-top:-13px;
+}
+
+.first-event {
+    margin-top: -640px;
+    margin-left: 260px;
+}
+
+.second-event {
+    margin-top:178px !important;
+}
+
+.third-event {
+    margin-top:230px !important;
+}
+.blue {
+    margin-left:-15px;
+}
+.event {
+    margin-top:-15px;
+    margin-left: 260px;
+}
+
+.location {
+    color: #CCCCCC;
+}
+.time {
+    color: #999999;
+}
+.medium {
+    font-size: 25pt;
+}
