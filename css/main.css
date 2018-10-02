@@ -140,6 +140,7 @@ footer {
 }
 
 .line:hover {
+    background:red;
 }
 
 .no-space {
