@@ -134,12 +134,16 @@ footer {
 .third-event {
     margin-top:230px !important;
 }
-.blue {
-    margin-left:-15px;
-}
 .event {
     margin-top:-15px;
     margin-left: 260px;
+}
+
+.line:hover {
+}
+
+.no-space {
+    line-height: 1.0 !important;
 }
 
 .location {
