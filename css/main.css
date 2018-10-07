@@ -24,7 +24,7 @@ section {
     margin-top:-275px;
 }
 .hline {
-    margin-top: 50px;
+    /*margin-top: 50px;*/
 }
 
 .navbar {
@@ -140,7 +140,6 @@ footer {
 }
 
 .line:hover {
-    background:red;
 }
 
 .no-space {
@@ -155,4 +154,116 @@ footer {
 }
 .medium {
     font-size: 25pt;
+}
+.sponsor-tracks {
+    margin-top: -130px;
+}
+
+.text-contain {
+    display: inline-block;
+    width:500px;
+}
+
+.nav-link {
+  color: #213999;
+  font-weight: 500;
+  -webkit-transition: color 0.2s;
+  transition: color 0.2s;
+  transition: transform 0.2s;
+  display: inline-block;
+  text-decoration: none;
+  position: relative;
+  padding: 0 0.25em;
+}
+
+
+.nav-link::before,
+.nav-link::after {
+  position: absolute;
+  top: 0;
+  font-weight: 100;
+  font-size: 150%;
+  line-height: 1;
+  opacity: 0;
+  -webkit-transition: opacity 0.2s, -webkit-transform 0.2s;
+  transition: opacity 0.2s, transform 0.2s;
+}
+
+.nav-link::before {
+  left: -0.1em;
+  content: '[';
+  -webkit-transform: translateX(-100%);
+  transform: translateX(-100%);
+}
+
+.nav-link::before{
+  left: -0.1em;
+  content: '[';
+  -webkit-transform: translateX(-100%);
+  transform: translateX(-100%);
+}
+
+.nav-link::after{
+  right: -0.1em;
+  content: ']';
+  -webkit-transform: translateX(100%);
+  transform: translateX(100%);
+}
+
+.active::after {
+    right:-0.1em;
+    content: 'hasflakjsdfalkfj';
+    color:red !important;
+}
+
+.nav-link::after{
+  right: -0.1em;
+  content: ']';
+  -webkit-transform: translateX(100%);
+  transform: translateX(100%);
+}
+
+.schedule.nav-link::before, .schedule.nav-link::after  {
+    color: #00A99D !important;
+}
+
+.learn-link.nav-link::before, .learn-link.nav-link::after  {
+    color: #0071BC !important;
+}
+
+
+.judges.nav-link::before, .judges.nav-link::after  {
+    color: #ED1C24 !important;
+}
+
+
+.prizes.nav-link::before, .prizes.nav-link::after  {
+    color: #fbb03b !important;
+}
+
+.sponsors.nav-link::before, .sponsors.nav-link::after  {
+    color: #9e005d !important;
+}
+
+.faq-link.nav-link::before, .faq-link.nav-link::after  {
+    color: #662d91 !important;
+}
+.coc.nav-link::before, .coc.nav-link::after  {
+    color: #f15a24 !important;
+}
+
+.contact.nav-link::before, .contact.nav-link::after  {
+    color: #d20061;
+}
+
+
+.nav-link:hover::before,
+.nav-link:hover::after {
+  opacity: 1;
+  -webkit-transform: translateX(0);
+  transform: translateX(0);
+}
+
+.active.nav-link::before {
+    content: "[" !important;
 }
