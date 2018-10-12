@@ -117,6 +117,10 @@ footer {
     margin-left:-3px;
 }
 
+.sponsor-underline {
+    margin-top:-30px;
+    margin-left: -20px;
+}
 .traintracks {
     margin-left: -40px;
     margin-top:-13px;
@@ -196,12 +200,6 @@ footer {
   transform: translateX(-100%);
 }
 
-.nav-link::before{
-  left: -0.1em;
-  content: '[';
-  -webkit-transform: translateX(-100%);
-  transform: translateX(-100%);
-}
 
 .nav-link::after{
   right: -0.1em;
@@ -210,11 +208,6 @@ footer {
   transform: translateX(100%);
 }
 
-.active::after {
-    right:-0.1em;
-    content: 'hasflakjsdfalkfj';
-    color:red !important;
-}
 
 .nav-link::after{
   right: -0.1em;
@@ -266,4 +259,13 @@ footer {
 
 .active.nav-link::before {
     content: "[" !important;
+}
+
+.logos {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#peloton {
+    filter: invert(100%);
 }
