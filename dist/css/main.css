@@ -323,5 +323,31 @@ footer {
 		display: block;
 		width: 100%;
 	}	
+
+	.underline {
+		max-width: 100%;
+	}
+
+	.container {
+		float:left;
+	}
+
+	.text-contain {
+		width:100%;
+	}
+
+	.text-nowrap {
+		    white-space: normal!important;
+	    }
+
+	.big {
+		    font-size: 5.5vw;;
+		        margin-bottom: 25px;
+		}
+
+	.col-md-4 {
+
+		padding-bottom: 30px;
+	}
 }
 
