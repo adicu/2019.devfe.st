@@ -100,6 +100,9 @@ footer {
     font-family: "Helvetica", sans-serif !important;
     line-height:1.6;
 }
+.speaker-row {
+    margin-top:40px;
+}
 .big {
     font-size: 35pt;
     margin-bottom:50px;
