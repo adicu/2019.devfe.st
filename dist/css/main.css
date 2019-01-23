@@ -273,6 +273,10 @@ footer {
     margin-bottom: 30px;
 }
 
+#ww-logo {
+    filter: invert(100%) grayscale(100%);
+}
+
 #peloton {
     filter: invert(100%);
 }
