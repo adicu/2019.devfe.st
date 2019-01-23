@@ -71,6 +71,10 @@ a {
     background-color:#F7931E;
 }
 
+.judge-img {
+    border-radius: 50%;
+}
+
 #contact {
     background-color: #93278F;
 }
