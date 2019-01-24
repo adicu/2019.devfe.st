@@ -75,6 +75,11 @@ a {
     border-radius: 50%;
 }
 
+.prize-red {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
 #contact {
     background-color: #93278F;
 }
@@ -165,6 +170,9 @@ footer {
 }
 .medium {
     font-size: 25pt;
+}
+.small {
+    font-size: 15pt;
 }
 .sponsor-tracks {
     margin-top: -130px;
