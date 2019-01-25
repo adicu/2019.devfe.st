@@ -96,12 +96,18 @@ a {
     width: 170px;
     height: 25px;
     background-color: #EC1C24;
-    margin-top: -100px;
+    margin-top: -107px;
     float: left;
+    border-radius:10px;
 }
+
 
 .wrapper {
     width: 169px;
+}
+
+.wrapper:hover {
+    background-color: blue;
 }
 
 #contact {
