@@ -20,6 +20,18 @@ section {
     height:700px;
     margin-bottom: 50px;
 }
+
+.schedule-box {
+    width: 50%;
+    margin-left:30px;
+    margin:auto;
+}
+
+.schedule-img {
+    margin-left: -20px;
+    width:80%;
+}
+
 .schedule-msg {
     margin-top:-275px;
 }
