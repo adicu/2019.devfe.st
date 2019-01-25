@@ -1,11 +1,11 @@
 $(document).ready(function() {
-    console.log("BEGIN");
     $(".underline--magical").on("click", function(){
         console.log("FOUND");
    $(".nav").find(".active").removeClass("active");
    $(this).addClass("active");
    console.log(this);
     console.log("active");
+
 });
 });
 (function($) {

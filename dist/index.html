@@ -514,26 +514,24 @@ Development Track, iOS Development Track, or Data Science Track.</div>
     <!-- Custom JavaScript for this theme -->
     <script src="js/scrolling-nav.js"></script>
 
+    <script src='js/prizes-animation.js'></script>
 
     <script>
-      /*
-      $(".prize-red").hover(function() {
-        $(".red-rect").toggleClass("isHovered");
-        if ($(".red-rect").hasClass("isHovered")) {
+      $(".prize-red").mouseover(function() {
+        console.log("Starting hover function");
           $(".red-rect").animate({
             width: "500px"
           }, 1000, function() {
-            console.log("HI");
           });
-        }
-        else {
+      });
+
+      $(".prize-red").mouseout(function() {
+        console.log("Starting mouseout function");
           $(".red-rect").animate({
             width: "175px"
           }, 1000, function() {
           });
-        }
       });
-      */
     </script>
 
   </body>
