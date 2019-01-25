@@ -92,6 +92,18 @@ a {
     margin-bottom: 10px;
 }
 
+.red-rect {
+    width: 170px;
+    height: 25px;
+    background-color: #EC1C24;
+    margin-top: -100px;
+    float: left;
+}
+
+.wrapper {
+    width: 169px;
+}
+
 #contact {
     background-color: #93278F;
 }
