@@ -16,6 +16,7 @@
 	.st10{font-size:17px;}
 	.st11{font-size:11px;}
 	.st12{font-size:13px;}
+	.st13{font-size:15px;}
 </style>
 <path class="st0" d="M10.5,500.9c0-1.2,0.3-2.2,1-2.9c0.7-0.8,1.6-1.1,2.7-1.1c1.7,0,2.9,0.8,3.5,2.3c0.4,0.9,0.5,2,0.5,3.4
 	c0,1.4-0.2,2.5-0.5,3.4c-0.7,1.7-1.9,2.6-3.7,2.6c-0.8,0-1.6-0.2-2.3-0.8c-0.7-0.5-1.1-1.2-1.2-2.2h2.2c0.1,0.3,0.2,0.6,0.4,0.8
@@ -165,5 +166,5 @@
 <text transform="matrix(1 0 0 1 191.7277 616.0832)"><tspan x="0" y="0" class="st9 st5 st11">Data Science </tspan><tspan x="2.8" y="13.2" class="st9 st5 st11">microlecture</tspan></text>
 <text transform="matrix(1 0 0 1 158.4189 739)" class="st4 st5 st7">Mudd 633</text>
 <text transform="matrix(1 0 0 1 152.092 748.8887)" class="st4 st5 st7">10:00 - 11:00</text>
-<text transform="matrix(1 0 0 1 0.6841 730.0328)" class="st9 st5 st10">10:00 PM</text>
+<text transform="matrix(1 0 0 1 5.0191 730.0328)" class="st9 st5 st13">10:00 PM</text>
 </svg>

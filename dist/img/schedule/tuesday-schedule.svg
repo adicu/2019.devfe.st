@@ -6,7 +6,7 @@
 	.st0{fill:#FFFFFF;}
 	.st1{fill:#FFFDFD;}
 	.st2{font-family:'Helvetica-Bold';}
-	.st3{font-size:17px;}
+	.st3{font-size:15px;}
 	.st4{fill:#1D76BB;}
 	.st5{fill:none;stroke:#1D76BB;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;}
 	.st6{fill:#FFFFFF;stroke:#231F20;stroke-miterlimit:10;}
@@ -61,7 +61,7 @@
 	C52.5,139.2,52.7,138.7,52.7,138.1z M55.1,138.1c0,1.4-0.3,2.3-1,2.9c-0.7,0.6-1.7,0.8-2.9,0.8h-2.4v4.1h-2.4v-11.5h5
 	c1.2,0,2.1,0.3,2.8,0.9S55.1,136.9,55.1,138.1z M64.5,134.5H68V146h-2.2v-7.8c0-0.2,0-0.5,0-0.9s0-0.7,0-0.9l-2.2,9.7h-2.3l-2.2-9.7
 	c0,0.2,0,0.5,0,0.9s0,0.7,0,0.9v7.8h-2.2v-11.5h3.5l2.1,9.1L64.5,134.5z"/>
-<text transform="matrix(1 0 0 1 10.35 586.4966)" class="st1 st2 st3">10:00 PM</text>
+<text transform="matrix(1 0 0 1 4.35 586.4966)" class="st1 st2 st3">10:00 PM</text>
 <g>
 	<path class="st4" d="M179.6,97c22.5,0,40.8-18.3,40.8-40.8s-18.3-40.8-40.8-40.8s-40.8,18.3-40.8,40.8S157.1,97,179.6,97z"/>
 	<path class="st0" d="M194,41.8H182v33.5h-4.9V41.8h-12v-4.1h29V41.8z"/>
