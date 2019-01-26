@@ -248,20 +248,26 @@
         <div class="row">
           <div class="col-md-4">
             <div align="center">
-              <img src="img/dots/1.svg" class='prize-red' width='175px'>
+              <img src="img/dots/1.svg" class='prize-red' id='red-1' width='175px'>
               <div class='wrapper'>
-                <div class='red-rect'></div>
+                <div id='red-rect-1'></div>
               </div>
             </div>
           </div>
           <div class='col-md-4'>
             <div align="center">
-              <img src="img/dots/2.svg" class='prize-red' width='175px'>
-            </div> 
+              <img src="img/dots/2.svg" class='prize-red'  id='red-2' width='175px'>
+              <div class='wrapper'>
+                <div id='red-rect-2'></div>
+              </div>
+            </div>
           </div>
           <div class='col-md-4'>
             <div align="center">
-              <img src="img/dots/3.svg" class='prize-red' width='175px'>
+              <img src="img/dots/3.svg" class='prize-red' id='red-3' width='175px'>
+              <div class='wrapper'>
+                <div id='red-rect-3'></div>
+              </div>
             </div>
           </div>
           <div class='col-md-4'>  
@@ -515,24 +521,6 @@ Development Track, iOS Development Track, or Data Science Track.</div>
     <script src="js/scrolling-nav.js"></script>
 
     <script src='js/prizes-animation.js'></script>
-
-    <script>
-      $(".prize-red").mouseover(function() {
-        console.log("Starting hover function");
-          $(".red-rect").animate({
-            width: "500px"
-          }, 1000, function() {
-          });
-      });
-
-      $(".prize-red").mouseout(function() {
-        console.log("Starting mouseout function");
-          $(".red-rect").animate({
-            width: "175px"
-          }, 1000, function() {
-          });
-      });
-    </script>
 
   </body>
 
