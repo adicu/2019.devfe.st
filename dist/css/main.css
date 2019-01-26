@@ -101,13 +101,17 @@ a {
     border-radius:10px;
 }
 
+.stop-circle {
+    width: 25px;
+    height: 25px;
+    background-color:#FFFFFF;
+    border-radius: 50%;
+    border: 1px solid #000000;
+}
+
 
 .wrapper {
     width: 169px;
-}
-
-.wrapper:hover {
-    background-color: blue;
 }
 
 #contact {
