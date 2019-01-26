@@ -90,20 +90,38 @@ a {
 .prize-red {
     text-align: center;
     margin-bottom: 10px;
+    border-radius: 50%;
 }
 
-.red-rect {
+#red-rect-1 {
     width: 170px;
     height: 25px;
     background-color: #EC1C24;
-    margin-top: -107px;
+    margin-top: -110px;
     float: left;
     border-radius:10px;
 }
 
+#red-rect-2 {
+    width: 170px;
+    height: 25px;
+    background-color: #EC1C24;
+    margin-top: -110px;
+    border-radius: 10px;
+}
+
+#red-rect-3 {
+    width: 170px;
+    height: 25px;
+    background-color: #EC1C24;
+    margin-top: -110px;
+    float: right;
+    border-radius:10px;
+}
 
 .wrapper {
     width: 169px;
+    border-radius:50%;
 }
 
 .wrapper:hover {
