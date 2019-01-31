@@ -133,6 +133,10 @@ a {
     border-radius:50%;
 }
 
+#prizes {
+    margin-left: -120px;
+}
+
 #contact {
     background-color: #93278F;
 }
