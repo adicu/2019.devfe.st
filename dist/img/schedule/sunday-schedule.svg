@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 304.1 610.5" style="enable-background:new 0 0 304.1 610.5;" xml:space="preserve">
+	 viewBox="0 0 304.1 558.6" style="enable-background:new 0 0 304.1 558.6;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#91064C;}
 	.st1{fill:none;stroke:#91064C;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;}
@@ -27,7 +27,7 @@
 	c-0.1-0.2-0.2-0.4-0.5-1.3L64.8,129.3z M72.5,129.3c-0.4-0.8-0.6-1-0.7-1.2l-6.3,3c0.3,0.5,0.5,1,0.9,1.7L72.5,129.3z M70.2,138.8
 	c0.5,0.7,1,1.4,1.6,2l4.9-5c-0.3-0.3-0.5-0.6-0.8-0.9L70.2,138.8z M81.2,137.6c-1.6,0-3.2-0.6-4.4-1.8l-4.9,5
 	c2.5,2.5,5.8,3.8,9.3,3.8V137.6z"/>
-<path class="st1" d="M66.6,93.1v493"/>
+<path class="st1" d="M66.6,93.1v446.4"/>
 <path class="st2" d="M157.4,146.7c3.8,0,6.8-3,6.8-6.8s-3-6.8-6.8-6.8s-6.8,3-6.8,6.8S153.6,146.7,157.4,146.7z"/>
 <path class="st0" d="M156.4,93.7c22.5,0,40.8-18.3,40.8-40.8s-18.3-40.8-40.8-40.8s-40.8,18.3-40.8,40.8S133.8,93.7,156.4,93.7z"/>
 <text transform="matrix(1 0 0 1 123.5675 171.7639)" class="st3 st4 st5">Breakfast</text>
@@ -59,21 +59,19 @@
 <text transform="matrix(1 0 0 1 118.1532 403.5768)" class="st3 st4 st5">Top 5 Demos</text>
 <text transform="matrix(1 0 0 1 96.4016 422.657)" class="st6 st4 st7">Diana Event Oval Stage</text>
 <text transform="matrix(1 0 0 1 125.6357 433.2015)" class="st6 st4 st8">11:00 - 11:30 AM</text>
-<text transform="matrix(1 0 0 1 90.7765 448.4552)" class="st9 st4 st10">Need a team to compete with? We’ll</text>
-<text transform="matrix(1 0 0 1 88.5765 458.0552)" class="st9 st4 st10">help you find one! Note that the max </text>
-<text transform="matrix(1 0 0 1 131.8765 467.6552)" class="st9 st4 st10">team size is 4.</text>
-<path class="st0" d="M71,481c-0.7-1.8-2.7-2.7-4.5-2s-2.7,2.7-2,4.5L71,481z M158.7,502.8c1.9,0,3.5-1.6,3.5-3.5s-1.6-3.5-3.5-3.5
-	V502.8z M72.5,492.3l-3,1.8c0,0.1,0.1,0.1,0.1,0.2L72.5,492.3z M69.9,487.7l-3.2,1.5L69.9,487.7z M74.3,495l-2.9,2L74.3,495z
-	 M82.3,502.8h76.4v-7H82.3V502.8z M69.6,494.2l1.8,2.7l5.8-3.9l-1.8-2.7L69.6,494.2z M64.5,483.5l1.5,4l6.5-2.5l-1.5-4L64.5,483.5z
-	 M67.6,490.9l1.8,3.1l6-3.5l-1.8-3.1L67.6,490.9z M66,487.5c0.3,0.7,0.5,1.3,0.7,1.8l6.3-3c-0.1-0.2-0.2-0.4-0.5-1.3L66,487.5z
-	 M73.7,487.4c-0.4-0.8-0.6-1-0.7-1.2l-6.3,3c0.3,0.5,0.5,1,0.9,1.7L73.7,487.4z M71.4,496.9c0.5,0.7,1,1.4,1.6,2l4.9-5
-	c-0.3-0.3-0.5-0.6-0.8-0.9L71.4,496.9z M82.3,495.8c-1.6,0-3.2-0.6-4.4-1.8l-4.9,5c2.5,2.5,5.8,3.8,9.3,3.8V495.8z"/>
-<path class="st2" d="M158.5,504.9c3.8,0,6.8-3,6.8-6.8s-3-6.8-6.8-6.8s-6.8,3-6.8,6.8C151.7,501.8,154.8,504.9,158.5,504.9z"/>
-<text transform="matrix(1 0 0 1 93.9943 529.6006)" class="st14"><tspan x="0" y="0" class="st3 st4 st5">Awards &amp; Closing</tspan><tspan x="19.8" y="16.8" class="st3 st4 st5">Ceremonies</tspan></text>
-<text transform="matrix(1 0 0 1 108.1392 563.6808)" class="st6 st4 st7">Diana Event Oval</text>
-<text transform="matrix(1 0 0 1 114.3733 575.2253)" class="st6 st4 st8">11:30 AM - 12:00 PM</text>
+<path class="st0" d="M70.9,439c-0.7-1.8-2.7-2.7-4.5-2s-2.7,2.7-2,4.5L70.9,439z M158.6,460.8c1.9,0,3.5-1.6,3.5-3.5
+	s-1.6-3.5-3.5-3.5V460.8z M72.4,450.3l-3,1.8c0,0.1,0.1,0.1,0.1,0.2L72.4,450.3z M69.8,445.7l-3.2,1.5L69.8,445.7z M74.2,453l-2.9,2
+	L74.2,453z M82.2,460.8h76.4v-7H82.2V460.8z M69.5,452.2l1.8,2.7l5.8-3.9l-1.8-2.7L69.5,452.2z M64.4,441.5l1.5,4l6.5-2.5l-1.5-4
+	L64.4,441.5z M67.5,448.9l1.8,3.1l6-3.5l-1.8-3.1L67.5,448.9z M65.9,445.5c0.3,0.7,0.5,1.3,0.7,1.8l6.3-3c-0.1-0.2-0.2-0.4-0.5-1.3
+	L65.9,445.5z M73.6,445.4c-0.4-0.8-0.6-1-0.7-1.2l-6.3,3c0.3,0.5,0.5,1,0.9,1.7L73.6,445.4z M71.3,454.9c0.5,0.7,1,1.4,1.6,2l4.9-5
+	c-0.3-0.3-0.5-0.6-0.8-0.9L71.3,454.9z M82.2,453.8c-1.6,0-3.2-0.6-4.4-1.8l-4.9,5c2.5,2.5,5.8,3.8,9.3,3.8V453.8z"/>
+<path class="st2" d="M158.4,462.9c3.8,0,6.8-3,6.8-6.8s-3-6.8-6.8-6.8c-3.8,0-6.8,3-6.8,6.8C151.6,459.8,154.7,462.9,158.4,462.9z"
+	/>
+<text transform="matrix(1 0 0 1 93.8668 487.5985)" class="st14"><tspan x="0" y="0" class="st3 st4 st5">Awards &amp; Closing</tspan><tspan x="19.8" y="16.8" class="st3 st4 st5">Ceremonies</tspan></text>
+<text transform="matrix(1 0 0 1 108.0117 521.6787)" class="st6 st4 st7">Diana Event Oval</text>
+<text transform="matrix(1 0 0 1 114.2457 533.2231)" class="st6 st4 st8">11:30 AM - 12:00 PM</text>
 <text transform="matrix(1 0 0 1 -1 377.7257)" class="st3 st4 st5">11:00 AM</text>
-<text transform="matrix(1 0 0 1 -0.4449 500.8493)" class="st3 st4 st5">11:30 AM</text>
+<text transform="matrix(1 0 0 1 -0.5724 458.8471)" class="st3 st4 st5">11:30 AM</text>
 <text transform="matrix(1 0 0 1 144.4202 111.2549)" class="st3 st4 st15">2-3</text>
 <text transform="matrix(1 0 0 1 174.3056 142.6)" class="st3 st4 st8">Hack space open all night</text>
 </svg>
